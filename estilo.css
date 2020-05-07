@@ -1,0 +1,31 @@
+body {background-color: rgb(98, 98, 150);
+    font: normal 15pt arial;
+    background-image: url(./abstract-analogue-art-blur-280252.jpg);
+
+
+}
+
+header {
+    color: cornsilk;
+    text-align: center;
+    font-style: oblique;
+
+}
+
+section {
+    background-color: rgb(245, 231, 176);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+
+}
+
+footer {
+    color: cornsilk;
+    text-align: center;
+    font-style: italic;
+
+
+}
